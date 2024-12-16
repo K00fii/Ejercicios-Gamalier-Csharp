@@ -1,0 +1,28 @@
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.exe
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.deps.json
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.runtimeconfig.json
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.dll
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.pdb
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.AssemblyInfoInputs.cache
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.AssemblyInfo.cs
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.dll
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\refint\Discoteca.dll
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.pdb
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.genruntimeconfig.cache
+C:\Users\Franklin\source\repos\Discoteca\Discoteca\obj\Debug\net6.0\ref\Discoteca.dll
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.exe
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.deps.json
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.runtimeconfig.json
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.dll
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\bin\Debug\net6.0\Discoteca.pdb
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.AssemblyInfoInputs.cache
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.AssemblyInfo.cs
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.dll
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\refint\Discoteca.dll
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.pdb
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\Discoteca.genruntimeconfig.cache
+C:\Users\Franklin\Desktop\Ejercicios GitHub\IF and Switch\Discoteca\Discoteca\obj\Debug\net6.0\ref\Discoteca.dll
