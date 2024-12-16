@@ -1,0 +1,14 @@
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\bin\Debug\net9.0\Tienda de Electronica.exe
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\bin\Debug\net9.0\Tienda de Electronica.deps.json
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\bin\Debug\net9.0\Tienda de Electronica.runtimeconfig.json
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\bin\Debug\net9.0\Tienda de Electronica.dll
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\bin\Debug\net9.0\Tienda de Electronica.pdb
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.AssemblyInfoInputs.cache
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.AssemblyInfo.cs
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.dll
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\refint\Tienda de Electronica.dll
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.pdb
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\Tienda de Electronica.genruntimeconfig.cache
+C:\Users\Franklin\source\repos\Tienda de Electronica\Tienda de Electronica\obj\Debug\net9.0\ref\Tienda de Electronica.dll

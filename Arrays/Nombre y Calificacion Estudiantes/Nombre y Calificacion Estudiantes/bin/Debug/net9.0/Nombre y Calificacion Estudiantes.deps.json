@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Nombre y Calificacion Estudiantes/1.0.0": {
+        "runtime": {
+          "Nombre y Calificacion Estudiantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nombre y Calificacion Estudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
