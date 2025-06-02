@@ -1,0 +1,25 @@
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\bin\Debug\Ejercicio MDI - WF.exe.config
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\bin\Debug\Ejercicio MDI - WF.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\bin\Debug\Ejercicio MDI - WF.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.Properties.Resources.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.ProveedoresV1.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.Productos.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.Formulario.resources
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\bin\Debug\Ejercicio MDI - WF.exe.config
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\bin\Debug\Ejercicio MDI - WF.exe
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\bin\Debug\Ejercicio MDI - WF.pdb
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.csproj.AssemblyReference.cache
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.exe.config
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.Formulario.resources
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.Productos.resources
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.Properties.Resources.resources
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio_MDI___WF.ProveedoresV1.resources
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.csproj.GenerateResource.cache
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.csproj.CoreCompileInputs.cache
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.exe
+C:\Users\Junior\OneDrive\Escritorio\Ejercicios\C-Sharp\Ejercicios de Interfaces Graficas\Ejercicio MDI - WF\obj\Debug\Ejercicio MDI - WF.pdb
